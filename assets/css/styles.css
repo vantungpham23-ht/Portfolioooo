@@ -76,6 +76,10 @@ img{
   height: auto;
   display: block;
 }
+video{max-width: 100%;
+height: auto;
+display: block;
+}
 
 /*===== CLASS CSS ===== */
 .section-title{
@@ -425,8 +429,8 @@ img{
     align-items: center;
     text-align: initial;
   }
-  .about__img source{
-    width: 300px;
+  .about__img video{
+    width: 500px;
   }
   .work__container{
     grid-template-columns: repeat(3, 1fr);
