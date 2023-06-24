@@ -245,8 +245,8 @@ img{
 .about__img{
   justify-self: center;
 }
-.about__img img{
-  width: 200px;
+.about__img video{
+  width: 500px;
   border-radius: .5rem;
 }
 
@@ -425,7 +425,7 @@ img{
     align-items: center;
     text-align: initial;
   }
-  .about__img img{
+  .about__img source{
     width: 300px;
   }
   .work__container{
