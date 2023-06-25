@@ -73,7 +73,7 @@ a{
 }
 img{
   max-width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
 }
 video{max-width: 100%;
@@ -309,7 +309,6 @@ display: block;
 .skills__img{
   border-radius: .5rem;
 }
-
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
